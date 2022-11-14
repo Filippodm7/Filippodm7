@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Filippodm7
+- 👋 Hi, I’m @Filippo Di Marzio
 - 👀 I’m interested in Blockchain Developer
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on websites for blockchain technology project
