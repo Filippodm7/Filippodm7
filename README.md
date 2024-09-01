@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filippo Di Marzio
 - 👀 I’m interested in Blockchain Developer
-- I'm proficient in Python & JavaScript
+- I'm proficient in JavaScript
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web3 Projects for the future
 - 📫 How to reach me by email @fil.blockchain@gmail.com
